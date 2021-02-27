@@ -1,0 +1,11 @@
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.exe
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.deps.json
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.runtimeconfig.json
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.runtimeconfig.dev.json
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.dll
+D:\немного мусора\ArrayTask\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.pdb
+D:\немного мусора\ArrayTask\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.csprojAssemblyReference.cache
+D:\немного мусора\ArrayTask\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.AssemblyInfoInputs.cache
+D:\немного мусора\ArrayTask\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.AssemblyInfo.cs
+D:\немного мусора\ArrayTask\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.dll
+D:\немного мусора\ArrayTask\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.pdb
